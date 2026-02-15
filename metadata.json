@@ -1,0 +1,7 @@
+{
+  "description": "AI Agentic Calculator powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Gemini Calc"
+}
